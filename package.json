@@ -25,8 +25,7 @@
         "multi-device",
         "MD",
         "baileys-md"
-    ],
-    "homepage": "https://github.com/wudysoft",
+    ],    
     "author": {
         "name": "wudysoft"
     },
@@ -97,8 +96,7 @@
         "request" : "*",
         "sagiri" : "*",
         "similarity": "*",
-        "social-downloader-cherry" : "*",
-        
+        "social-downloader-cherry" : "*",        
         "socket.io": "*",
         "soundcloud-downloader" : "*",
         "syntax-error": "*",
